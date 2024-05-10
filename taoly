@@ -1,0 +1,185 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+     
+
+
+
+
+
+
+
+
+
+                <meta name="spm-id" content="a220l.16"/>
+  <title>交易详情-Tmall.com天猫-理想生活上天猫</title>
+  <link rel="shortcut icon" href="//img.alicdn.com/tfs/TB1XlF3RpXXXXc6XXXXXXXXXXXX-16-16.png" type="image/x-icon"/>
+  <script>
+ window.g_config = window.g_config || {};
+ window.g_config.devId = "pc";
+ window.g_config.headerVersion = '1.0.0';
+           window.g_config.loadModulesLater = true;
+ window.g_config.sl = 'vm';
+ </script>
+        
+   <script>
+ window.g_config.ueUrl='http://www.tmall.com/wow/lost/act/tmall-buy-detail-pc';window.g_config.notInitSearchBar=true;window.g_config.removeBrandBar=true;window.g_config.appId=15;window.g_config.toolbar=false;
+   if(""!="") {
+ // 天猫超市不使用吊顶 footer
+ window.g_config = window.g_config || {};
+ window.g_config.footer = false;
+ }
+ </script>
+ <meta charset="gbk" />
+ <meta name="renderer" content="webkit|ie-comp|ie-stand" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+   
+     <link rel="stylesheet" href="//g.alicdn.com/tb-trade/mui-global/0.0.1/index.css"/>
+<script src="//g.alicdn.com/jstracker/sdk-assests/5.3.2/index.js" crossorigin="anonymous"></script>
+<script src="//g.alicdn.com/??kissy/k/1.4.1/seed-min.js,mui/seed/1.3.0/seed.js,mui/btscfg-g/3.0.0/index.js,mui/bucket/3.0.4/index.js,mui/global/3.0.31/global-pc.js,mui/global/3.0.31/global.js" crossorigin="anonymous"></script>
+<script src="//g.alicdn.com/??mui/globalmodule/3.0.88/seed.js,mui/globalmodule/3.0.88/global-mod-pc.js,mui/globalmodule/3.0.88/global-mod.js" crossorigin="anonymous"></script>
+<script src="//o.alicdn.com/tbhome/tmnav/index.js" charset="UTF-8" crossorigin="anonymous"></script>
+<script src="//g.alicdn.com/secdev/pointman/js/index.js" app="tmall"></script>
+<script>
+   TB.environment.isApp = true;
+   TB.environment.passCookie = true;
+ </script>
+  
+       
+                     <link rel="stylesheet" href="//g.alicdn.com/??buy/detail/1.3.4/aio.css">
+</head>
+<body id="J_trade_order_detail" class="w990"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=2947557125&aplus&yunid=&ea368f537beb3&asid=AQUnsK821T1mJUrzeQAAAAALtF8oTp4A4Q==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+
+ <script>
+ window.cTag1 = "tm_detail_orderDetail";
+ </script>
+ <script src="//g.alicdn.com/??/AWSC/AWSC/awsc.js,/sd/baxia-entry/baxiaCommon.js"></script>
+ <script>
+window.__FE_VERSION__ = window.__FE_VERSION__ || (function(){
+try{
+var version = 'undefined';
+if (typeof document.querySelectorAll !== 'function') {
+ return version;
+}
+var links = document.querySelectorAll('link');
+var linksLength = links.length;
+var versionReg = /tp\/(sold|detail|snapshot)\/(\d+\.\d+\.\d+)\//;
+if (linksLength === 0) {
+return version;
+};
+for (var i = 0; i < linksLength; i++) {
+var link = links[i];
+if(!link || typeof(link.getAttribute) !== 'function' ) {
+continue;
+}
+var href = link.getAttribute('href');
+href = href + '';
+var regResult = versionReg.exec(href);
+if (!regResult || !regResult[2]) {
+continue;
+}
+version = regResult[2];
+break;
+}
+return version;
+} catch(e) {
+return 'undefined';
+}
+})();
+
+function getCookie(e){try{for(var o=document.cookie.split("; "),n={},t=0;t<o.length;t++){var c=o[t].split("=");
+n[c[0]]=c[1]}return unescape(decodeURIComponent(n[e]).replace(/\\u/g,"%u"))}catch(err){return""}};
+!function(c,b,d,a){with(c[a]||(c[a]={}),c[a].config={pid:"gf3el0xc6g@c7362cca9f7f200",c1:window.cTag1,ignore:{ignoreErrors:[/^Script error\.?$/]},sendResource:true,release:window.__FE_VERSION__,imgUrl:"https://arms-retcode.aliyuncs.com/r.png?",release: window.__FE_VERSION__,tag:getCookie("tracknick"),disableHook:!0},b)
+with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("crossorigin","",src=d)}
+(window,document,"https://retcode.alicdn.com/retcode/bl.js","__bl");
+</script>
+
+               <div id="mallPage"
+ class="  tmall- page-not-market ">
+  <div id="site-nav" style="height: 26px;"></div>
+    <div id="header"
+ class=""
+ data-spm="a2226n0">
+ <div class="headerLayout">
+ <div class="headerCon ">
+ <h1 id="mallLogo" >
+  <span class="mlogo" >
+   <a href="//www.tmall.com/" title="天猫Tmall.com"><s></s>天猫Tmall.com</a>
+   </span>
+  <span class="slogo">
+ <a href=""></a>
+ </span>
+</h1>
+
+ <div class="header-extra">
+       <div id="mallSearch" class="mall-search">
+ <form name="searchTop" action="//list.tmall.com/search_product.htm" class="mallSearch-form clearfix" target="_top">
+ <fieldset>
+ <legend>天猫搜索</legend>
+ <div class="mallSearch-input clearfix">
+ <label for="mq">搜索 天猫 商品/品牌/店铺</label>
+
+ <div class="s-combobox">
+ <div class="s-combobox-input-wrap">
+   <input type="text" name="q"   accesskey="s" autocomplete="off" x-webkit-speech=""
+ x-webkit-grammar="builtin:translate"
+ value="" id="mq" autocomplete="off"/>
+   </div>
+ </div>
+ <button type="submit">搜索<s></s>
+ </button>
+ <input id="J_Type" type="hidden" name="type" value="p"/>
+ <input id="J_MallSearchStyle" type="hidden" name="style" value="">
+ <input id="J_Cat" type="hidden" name="cat" value="all"/>
+ <input type="hidden" name="vmarket" value="">
+   </div>
+ </fieldset>
+ </form>
+  </div>
+   </div>
+ </div>
+ </div>
+ </div>
+
+  <div id="content">
+  <div id="page">
+ <div id="content">
+ <div id="container">
+ <div id="loading" class="mui-prompt-loading">
+ <div class="mui-loading-img mui-loading-play"></div>
+ </div>
+ </div>
+ <a name="main"></a>
+ <script type="text/javascript">
+ window.isSeller = false;
+ window.sifg= '' === '' ? undefined : '$sifg';
+ </script>
+ <script>
+   var detailData = {"ad":{"banner":{},"p4pAdvert":{"params":{"p4p":"true"}},"salePromotion":{"params":{"aldCfgAppId":"03236","itemIds":"696658188940","aldCfgName":"vieworder_a"}}},"amount":{"count":[[{"content":[{"data":{"money":{"css":{"width":"120px"},"text":"￥9.90","type":"label"},"colon":{"text":"：","type":"label"},"titleLink":{"css":{},"text":"商品总价","type":"label"}},"layout":{"row1":{"children":["titleLink","colon","money"]},"root":{"children":["row1"]}},"root":"root","type":"mixture"}],"key":""},{"content":[{"data":{"money":{"css":{"width":"120px"},"text":"￥0.00","type":"label"},"colon":{"text":"：","type":"label"},"titleLink":{"css":{},"text":"运费(快递)","type":"label"}},"layout":{"row1":{"children":["titleLink","colon","money"]},"root":{"children":["row1"]}},"root":"root","type":"mixture"}],"key":""},{"content":[{"data":{"money":{"css":{"width":"120px"},"text":"￥0.00","type":"label"},"colon":{"text":"：","type":"label"},"titleLink":{"css":{},"text":"运费险","type":"label"}},"layout":{"row1":{"children":["titleLink","colon","money"]},"root":{"children":["row1"]}},"root":"root","type":"mixture"}],"key":""},{"content":[{"data":{"money":{"css":{"width":"120px"},"text":"-￥8.80","type":"label"},"colon":{"text":"：","type":"label"},"titleLink":{"css":{},"text":"红包","type":"label"}},"layout":{"row1":{"children":["titleLink","colon","money"]},"root":{"children":["row1"]}},"root":"root","type":"mixture"}],"key":""},{"content":[{"data":{"money":{"css":{"color":"#DD2727","fontSize":"14px","fontWeight":"600","width":"120px"},"text":"￥1.10","type":"label"},"colon":{"text":"：","type":"label"},"titleLink":{"css":{"color":"#333333","fontSize":"14px","fontWeight":"600"},"text":"实付款","type":"label"}},"layout":{"row1":{"children":["titleLink","colon","money"]},"root":{"children":["row1"]}},"root":"root","type":"mixture"}],"key":""}]],"promotion":[{"content":[{"data":{"money":{"css":{"width":"120px"},"text":"返积分4点","type":"label"}},"layout":{"row1":{"children":["money"]},"root":{"children":["row1"]}},"root":"root","type":"mixture"}],"key":""}]},"basic":{"lists":[{"content":[{"text":"灵颜,86-18228034851,四川省 成都市 新都区 新都街道 新都镇 新都大道8号西南石油大学学生一区菜鸟驿站 ,000000","type":"label"}],"key":"收货地址"},{"content":[{"text":"-","type":"label"}],"key":"买家留言"},{"content":[{"text":"2113949173699552571","type":"label"},{"direction":"left","moreList":[{"content":[{"text":"2024040922001116281416295740","type":"label"}],"key":"支付宝交易号"},{"content":[{"text":"2024-04-09 23:42:55","type":"label"}],"key":"成交时间"},{"content":[{"text":"2024-04-09 23:43:05","type":"label"}],"key":"付款时间"},{"content":[{"text":"2024-04-10 10:47:56","type":"label"}],"key":"发货时间"},{"content":[{"text":"2024-04-20 10:48:09","type":"label"}],"key":"完结时间"}],"noHover":false,"text":"更多","type":"more"}],"key":"订单编号"},{"content":[{"text":"<span class='short-dd-nick' title='超**'>超**<span class='J_WangWang' data-nick='超能官方旗舰店' data-icon='small' data-item='0:2113949173699552571' data-encode='true' data-display='inline' data-encryptuid='RAzN8HWabUo6ikfJg3aDjZtGBHZrvySNPhWft78Pds6xBYV9jer' data-bizdomain='taobao' data-biztype='0' data-sceneparam=%7B%22toRole%22%3A%22%22%2C%22bizRef%22%3A%22qianniuTpRefund%22%7D></span></span>","type":"html"},{"direction":"left","moreList":[{"content":[{"type":"label"}],"key":"真实姓名"},{"content":[{"text":"丽水","type":"label"}],"key":"城市"}],"noHover":false,"text":"更多","type":"more"}],"key":"商家"}],"log":{},"title":"订单信息"},"bizCode":"ali.china.tmall.fmcg","orders":{"id":2113949173699552571,"list":[{"logistic":{"content":[{"companyName":"邮政快递包裹","mailNo":"9874694704904","text":"包裹1","type":"logistic","url":"//detail.i56.taobao.com/call/query_trace_un_login.do?tradeId=2113949173699552571&dimension=TRADE_ID&appName=TMALL_BUY&digest=NqFyxdK8CJrrLOWHrIqDGg%3D%3D&data-mail-no=9874694704904&data-company-name=邮政快递包裹"}],"key":""},"status":[{"statusInfo":[{"text":"交易成功","type":"label"},{"action":"b1","data":{"crossOrigin":false,"height":300,"width":600},"dataUrl":"//trade.taobao.com/trade/operationConfirm.htm?data_url=%2F%2Frefund2.tmall.com%2Fdispute%2FsecondConfirm.do%3FbizOrderId%3D2113949173699552571%26attrKey%3DopenSHWY&from=listSoldItems","style":"t16","text":"打开售后入口","type":"operation"}],"subOrders":[{"itemInfo":{"auctionUrl":"//detail.tmall.com/item.htm?id=696658188940","extra":[{"name":"商家编码","value":"6910019015503","visible":"SOLID"}],"itemUrl":"//trade.taobao.com/trade/detail/tradeSnap.htm?tradeID=2113949173699552571","pic":"//gsnapshot.alicdn.com/imgextra/O1CNA1AMLoQH20kIeH2e3d6_!!2380416887-0-psf.jpg_80x80.jpg?time=1712677375000","serviceIcons":[{"linkTitle":"正品保证","linkUrl":"//rule.tmall.com/tdetail-4400.htm","name":"正品保证","title":"正品保证","type":3,"url":"//img.alicdn.com/tps/i2/T1SyeXFpliXXaSQP_X-16-16.png"},{"linkTitle":"如实描述","linkUrl":"//www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=","name":"如实描述","title":"如实描述","type":3,"url":"//img.alicdn.com/tps/TB1PDB6IVXXXXaVaXXXXXXXXXXX.png"},{"linkTitle":"七天退换","linkUrl":"//pages.tmall.com/wow/seller/act/seven-day","name":"七天退换","title":"七天退换","type":3,"url":"//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png"}],"skuText":[{"content":[{"text":"其他","type":"label"}],"key":"香味"}],"snapUrl":"//trade.taobao.com/trade/detail/tradeSnap.htm?tradeID=2113949173699552571","title":"超能4块除菌内衣皂专用"},"priceInfo":[{"text":"￥9.90","type":"label"}],"quantity":"1"}]}]}]},"other":{"content":[]},"overStatus":{"explain":[],"operate":[{"content":[{"action":"b4","id":"ADD_BUYER_MEMO","pointUrl":"//go.mmstat.com/jsclick?logtyp=2&orderdetail=viewdetail","text":"备忘","type":"operation","url":"//trade.taobao.com/trade/memo/update_buy_memo.htm?biz_order_id=2113949173699552571&buyer_id=2947557125&return_url=%2F%2Ftrade.tmall.com%2Fdetail%2ForderDetail.htm%3Fbiz_order_id%3D2113949173699552571"},{"action":"b4","id":"applyInvoice","text":"申请开票","type":"operation","url":"//invoice-ua.taobao.com/user/invoice/applyPcRoute?orderId=2113949173699552571"}],"key":"您可以"}],"prompt":[{"content":[{"text":"预计04月12日送达","type":"label"},{"companyName":"邮政快递包裹","mailNo":"9874694704904","type":"logistic","url":"//detail.i56.taobao.com/call/query_trace_un_login.do?tradeId=2113949173699552571&dimension=TRADE_ID&appName=TMALL_BUY&digest=NqFyxdK8CJrrLOWHrIqDGg%3D%3D"}],"key":"配送时间"}],"status":{"content":[{"text":"<h3>订单状态: 交易成功</h3>","type":"html"}],"iconUrl":"//img.alicdn.com/tps/i1/T1e.aoXuXdXXa94Hfd-32-32.png"}},"stepbar":{"current":3,"options":[{"content":"拍下商品","time":"2024-04-09 23:42:55"},{"content":"付款到支付宝","time":"2024-04-09 23:43:05"},{"content":"卖家发货","time":"2024-04-10 10:47:56"},{"content":"确认收货","time":"2024-04-20 10:48:09"},{"content":"评价"}]},"top":{"crumbs":{"content":[{"action":"b4","text":"首页","type":"operation","url":"//www.tmall.com"},{"action":"b4","text":"我的淘宝","type":"operation","url":"//i.taobao.com/myTaobao.htm?nekot=1715328310507"},{"action":"b4","text":"已买到的宝贝","type":"operation","url":"//trade.taobao.com/trade/itemlist/listBoughtItems.htm?nekot=1715328310507"}],"key":"您的位置"},"hotline":{"content":[{"text":"4008 608 608","type":"label"}],"key":"天猫热线"}},"traceId":"0b51596117153283102331012e1455","tradeStatus":"TRADE_FINISHED"}
+ </script>
+
+
+
+ </div>
+</div>
+ <script src="//g.alicdn.com/??mui/kissy-polyfill/4.0.11/index.js,buy/detail/1.3.4/seed.js"></script>
+<script>
+ KISSY.use("buy/detail/app", function(S, App){
+ 
+ App.init();
+ });
+</script>
+  
+
+     
+ <script type="text/javascript">
+ window.ua_log="";var UA_Opt={};UA_Opt.isSendError=1;UA_Opt.LogVal="ua_log";UA_Opt.SendMethod=8;UA_Opt.MaxKSLog=30;UA_Opt.MaxMCLog=50;UA_Opt.MaxMPLog=30;UA_Opt.MPInterval=50;UA_Opt.MaxFocusLog=20;UA_Opt.MaxGPLog=10;UA_Opt.MaxTcLog=50;UA_Opt.Token=new Date().getTime()+":"+Math.random();UA_Opt.Flag=817358;
+ </script>
+ <script src="//aeu.alicdn.com/js/uac.js"></script>
+</body>
+</html>
